@@ -1,0 +1,126 @@
+---
+Title:  "3P Project"
+Category: "High school Hackathon"
+Status: "Planning"
+Locale: "Eugene Oregon"
+---
+
+Status: ```alpha v0.0```
+> Literally just a markdown file at this point.
+
+# The Puppy Poop Pickup Project - 3P Project
+
+## Purpose
+  * Unleash the creative minds of high school students to solve a real life problem - irresponsible pet owners leaving waste behind 
+> ewww
+
+## Vision
+  * Create a variety of solutions that are easy to use and implement
+  * Learn about accessible design in physical product, software and hardware development
+  * Develop new curricula free to any educator that allows for collaboration between arts and sciences, leading to a greater appreciation for topics students may have previously ignored
+  * Strengthen existing and develop new Dual Enrollment programs
+  * Each Phase will incorporate Diversity, Equity, and Inclusion as part of the voting process
+  * Recruit Professionals to teach best practices from the beginning rather than random googling and tutorial trainings - OOP, Use of containers and managed environments, writing Technical Documentation and Wikis, etc.
+
+## Mission
+  * Use free or donated modern resources to solve a discrete problem with infinite local variations, providing free or donation-based products and services that can improve any neighborhood
+
+---
+
+
+#### Warning: I'm Flying Blind!
+
+  > PS:
+  ```
+  Admission: I have no connection to any local schools or districts. I am going to rely heavily on local SMEs to develop these ideas for practicality and scope. Personally, I'd rather develop this for 3-5 years and do a comprehensive, national version that incorporates 90%+ of the ideas I have related to this project.
+
+  Realistically, to ever to get off the ground, we'll probably need to pilot with just one single alternate or private high school here in Eugene/Springfield Oregon for proof of concept. - PaulS
+  ```
+
+
+## Phases
+
+### Planning
+  1. Recruit *Local* Subject Matter Experts (SMEs)
+
+  1. Determine Best *Local* Approach - 501(c)3, B Corp, Community College course or utilizing an existing Dual Enrollment agreement?
+
+  1. Proceed to next steps depending on approach. If developing a 501(c)3, grab a domain to match the project and begin finding a board. If developing a CC course, email the registrar or contact for Dual Enrollment.
+
+  1. Proceed to next phase ```alpha v0.1``` when primary Project Management tool is selected.
+
+### Future Issues
+  TODO: #7 Create single landing page announcement (access by QR code and/or shortened URL) with major details and newsletter signup, along with participant type
+  
+  TODO: #8 Contact UnitedWay to get ideas for Lane County partners to approach
+
+  TODO: #9 Contact Lane Community College to discuss new program development processes
+
+  TODO: #10 Create new file or identify appropriate location to place these issues instead of this post.
+
+
+
+## Reasons to get Involved
+
+### High School Students
+  1. Local, Regional, National levels possible to allow HS students around the nation to get connections in their fields of interest
+  1. Learn modern software development practices while also collaborating with teammates from other disciplines - see the larger picture
+  1. Portfolio Development! All solutions will be public and voted on. Individuals, groups, classes, afterschool clubs, all activity related to this project will be documented and available in the future.
+  1. Prepare for remote jobs - learn to manage projects, participate in Kanban, Sprint, or other development standards.
+  1. Future collaborations pending:
+
+  | Opportunity | Description |
+  | ------ | ----------- |
+  | College Credit | Existing high school - Community College relationships will be explored for Computer Science, Photography, Writing, Public Relations, and more credit options |
+  | Internships | A variety of internship ideas will be possible in for-profit, non-profit, and government work |
+  | Free or Minimal Cost | Profits may not be earned for the duration of the competition, especially when HS / College Credit is involved. Expenses may be covered by tuition depending on solution developed. After all voting periods are completed and any additional judging concludes, solutions developed anywhere in the country - including your own solution - can be used for profit. |
+  | Future Earning Potential | After all voting periods are completed and any additional judging concludes, solutions developed anywhere in the country - including your own solution - can be used for profit. All licensing rules established in the competition will persist |
+  | Certifications & Training Paths | extension to be used for dest files. |
+
+### Educators
+
+### Professionals
+
+### Partners
+  1. Google-fu track where Google trainers demonstrate all free Google products that can be used for the project and consult on project progress
+  1. Microsoft Learn track - same with M365 educational volume licensing and additional educator resources
+  1. Github Copilot - educational licensing or extended trials?
+  1. ...
+
+### Sponsorship Types
+  1. Financial Only - ***Monetary contributions*** to scholarships, purchasing, etc.
+  1. Donation: licensing, physical supplies, gift cards to electronics stores
+  1. Fundraising: Ice Cream Socials, Bake-off Auctions, Car Washes
+  1. Support Pledge: Commit to subscribe or donate to local services developed through this collaborative competion
+  2.
+  
+
+# Rules and Agreements
+
+## By participating, you agree to...
+1. Updates to Rules & Regulations - this is to be an adaptive process that is shaped by the participants and educators where possible. That also means that regular updates and changes to the rules may occur for any reason. Example: Specific regions may be excluded from credit options and possibly any participation where local laws and regulations will introduce risk on behalf of Educators, especially as the ***Diversity, Equity, and Inclusion*** values are not negotiable. 
+1. Copyrights / Patents / Permissions / Open Source Licensing
+1. This hack-a-thon is entirely voluntary and not accredited or educationally licensed in any way. If you don't like the rules, you may quit participating at any time as an individual. If your school or district is participating with credit options, local rules and your institutional policies must be followed. Following the general rules of the hack-a-thon does not in any way mean you will be able to claim any form of compensation, credit, certification, or opportunities offered by any entity participating in any phase or portion of this event, however large or small the involvement.
+
+# Disclaimers
+
+## Pettiness factor
+In order to be eligible for advancement to the next round, *even with a project gaining enough qualifying votes* per other rules, solutions must be positive rather than negative.
+
+* In Eugene Oregon, we tend to have a more positive mindset and approach to strangers, extending a bit more empathy than some other areas. Local government around here generally uses positive, proactive messaging to communicate concerns to citizens, meaning a highly positive solution may lead to change in behavior. Increasing the availability of free doggy bags throughout the neighborhood. Recruiting volunteers to randomly distribute coupons or vouchers for free/discount dog food, grooming services, etc. when dog owners are observed being responsible.
+
+* Springfield just across the river tends to be a bit more conservative. A slightly more punitive approach such as posting flyers with a direct to voicemail number to report to Animal Services regarding dog owners littering. Dog registration is required in Springfield, so if dogs are registered appropriately it will be easy to identify owners, while unregistered dogs (especially those not vaccinated for rabies) can be identified by Animal Services for action to keep the entire community healthier.
+
+* In Philadelphia, it could be *more effective* to develop a shame-based solution. Perhaps an app that can launch the camera and take a picture of someone leaving their dog's poo behind, automatically getting geo-tagged and uploaded to a Google Map visualization anyone can access and view live, with the ability for people who recognize them to tag them in socials. Donate buttons could feature strongly, suggesting people donate any amount to remove the image. It would of course be possible to remove without paying, but the process is longer without a donation as it must be manually reviewed by multiple volunteers to validate the request, perhaps.
+
+Honestly, competitors may develop as they desire to be effective locally, but if your project becomes tagged as "petty" you may be placed into "debug" mode where additional guidance from the , and if tagged as "offensive" overall by voting participants it can place your project into a dungeon
+
+
+
+## Ideas for future development
+* Self-Reporting Option: Run out of bags? Dog freaking out and you had to leave to prevent a puppy fight? Ping your own location without identifying you or your dog with a note about the soonest you can return to take care of it or leave a donation requesting a participant to clean it and claim the donation.
+* Free texting based solution. Unhoused individuals with no smartphone or data available. Install trailcams with custom phone numbers that someone can text and get a picture taken with the number of doggy bags you are trashing at once to claim bus pass vouchers or 
+
+### Conditions to propose to governing body
+* Any phase including voting (including those that have financial value attached to results) will always place **equal OR greater value** on Student Participant and Educator votes as to Sponsor or Partner votes
+* 
