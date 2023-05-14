@@ -10,9 +10,24 @@ Status: ```alpha v0.0```
 
 # The Puppy Poop Pickup Project - 3P Project
 
+---
+#### Warning: I'm Flying Blind! :wink:
+
+    Admission: I have no connection to any local schools or districts. 
+    I am going to rely heavily on local SMEs to develop these ideas 
+    for practicality and scope. Personally, I'd rather develop this 
+    for 3-5 years and do a comprehensive, national version that 
+    incorporates 90%+ of the ideas I have related to this project.
+
+    Realistically, to ever to get off the ground, we'll probably need 
+    to pilot with just one single alternate or private high school 
+    here in Eugene/Springfield Oregon for proof of concept. 
+    - PS 
+---
+
 ## Purpose
   * Unleash the creative minds of high school students to solve a real life problem - irresponsible pet owners leaving waste behind 
-> ewww
+      > ewww
 
 ## Vision
   * Create a variety of solutions that are easy to use and implement
@@ -20,22 +35,11 @@ Status: ```alpha v0.0```
   * Develop new curricula free to any educator that allows for collaboration between arts and sciences, leading to a greater appreciation for topics students may have previously ignored
   * Strengthen existing and develop new Dual Enrollment programs
   * Each Phase will incorporate Diversity, Equity, and Inclusion as part of the voting process
-  * Recruit Professionals to teach best practices from the beginning rather than random googling and tutorial trainings - OOP, Use of containers and managed environments, writing Technical Documentation and Wikis, etc.
+  * Recruit Professionals to teach best practices from the beginning rather than random googling and tutorial trainings - OOP, Reusing / Refactoring code, Unit Tests, writing Technical Documentation and Wikis, etc.
 
 ## Mission
   * Use free or donated modern resources to solve a discrete problem with infinite local variations, providing free or donation-based products and services that can improve any neighborhood
 
----
-
-
-#### Warning: I'm Flying Blind!
-
-  > PS:
-  ```
-  Admission: I have no connection to any local schools or districts. I am going to rely heavily on local SMEs to develop these ideas for practicality and scope. Personally, I'd rather develop this for 3-5 years and do a comprehensive, national version that incorporates 90%+ of the ideas I have related to this project.
-
-  Realistically, to ever to get off the ground, we'll probably need to pilot with just one single alternate or private high school here in Eugene/Springfield Oregon for proof of concept. - PaulS
-  ```
 
 
 ## Phases
@@ -75,9 +79,22 @@ Status: ```alpha v0.0```
   | Internships | A variety of internship ideas will be possible in for-profit, non-profit, and government work |
   | Free or Minimal Cost | Profits may not be earned for the duration of the competition, especially when HS / College Credit is involved. Expenses may be covered by tuition depending on solution developed. After all voting periods are completed and any additional judging concludes, solutions developed anywhere in the country - including your own solution - can be used for profit. |
   | Future Earning Potential | After all voting periods are completed and any additional judging concludes, solutions developed anywhere in the country - including your own solution - can be used for profit. All licensing rules established in the competition will persist |
-  | Certifications & Training Paths | extension to be used for dest files. |
+  | Certifications & Training Paths | Start existing paths for free or highly discounted through this experience |
 
 ### Educators
+  1. Get free ideas, tools, and access to educational resources for any course or topic that can be developed for this hack-a-thon
+  1. Been meaning to learn to code yourself? Perfect! Expertise is not required from Educators - just excitement and a willingness to help guide the way through the stages.
+  1. Engage your students with a truly practical, real life example problem with potential for lasting impact
+  1. Collaborative Competition - not enough scholastic competitions reward creativity and outside-the-box thinking, instead rewarding the ability to follow a rubric and work to the competition. This is an opportunity to teach your students that through creativity, the simplest solution can outperform highly technical solutions, especially for smaller schools.
+  1. Future collaborations pending:
+
+  | Opportunity | Description |
+  | ------ | ----------- |
+  | Training | Just by participating as an Educator, you will get to learn from the process as well. Get your own Educator/Trainer certifications with participating platforms. |
+  | Continuing Education | Work in any industry that requires continuing education? Submit this to your licensure board for evaluation |
+  | Free or Minimal Cost | Priority will be given in voting to 100% free solutions - however, where there is less institutional support for Educators, they may apply for grants, find other local funding sources to acquire supplies or pay costs, or as a last resort, from their personal pocket (There will be a maximum spending limit, no matter the source) |
+  | Adapting to the Gig Economy | Educators of many forms are making historically low wages to the cost of living. Solutions may be used by Educators as well as students for future earning potential as gig, subscription, or other work after the conclusion of the hack-a-thon |
+  | Reigniting Passion | How often does a brand new, collaborative, free educational opportunity come along with Educators as a primary consumer kept in mind throughout the whole process? Win-win-wins here all around |
 
 ### Professionals
 
@@ -124,3 +141,15 @@ Honestly, competitors may develop as they desire to be effective locally, but if
 ### Conditions to propose to governing body
 * Any phase including voting (including those that have financial value attached to results) will always place **equal OR greater value** on Student Participant and Educator votes as to Sponsor or Partner votes
 * 
+
+
+## Resources
+
+So many I'll often forget to paste them here despite wanting to remember
+
+### Example programs to look at
+1. Tution free course to HS Juniors and Seniors:
+https://www.lanecc.edu/community/education-community/early-college-expanded-options/tuition-free-course
+2. Expectations of HS students taking CC courses:
+https://www.lanecc.edu/community/education-community/early-college-expanded-options/hs-student-resources
+3. 
