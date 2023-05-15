@@ -1,17 +1,18 @@
 ---
 Title:  "3P Project"
 Category: "High school Hackathon"
-Status: "Planning"
-Locale: "Eugene Oregon"
+Status: "Phase 0 Planning"
+Locale: "Lane County, Oregon"
 ---
 
-Status: ```alpha v0.0```
+---
+## Current Version: ```alpha v0.0```
 > Literally just a markdown file at this point.
+
 
 # The Puppy Poop Pickup Project - 3P Project
 
----
-#### Warning: I'm Flying Blind! :wink:
+### Warning: I'm Flying Blind!
 
     Admission: I have no connection to any local schools or districts. 
     I am going to rely heavily on local SMEs to develop these ideas 
@@ -25,44 +26,124 @@ Status: ```alpha v0.0```
     - PS 
 ---
 
+### Acronyms
+  1. (DE) Dual Enrollment - Earning college credits while in high school
+  1. (DEI) Diversity, Equity, and Inclusion
+  1. (HS) High school, (CC) Community College, and HS/CC when either applies 
+  1. (SME) Subject Matter Expert - knowledgable on topic - not necesssarily licensed
+  1. 
+
 ## Purpose
   * Unleash the creative minds of high school students to solve a real life problem - irresponsible pet owners leaving waste behind 
       > ewww
 
-## Vision
-  * Create a variety of solutions that are easy to use and implement
-  * Learn about accessible design in physical product, software and hardware development
-  * Develop new curricula free to any educator that allows for collaboration between arts and sciences, leading to a greater appreciation for topics students may have previously ignored
-  * Strengthen existing and develop new Dual Enrollment programs
-  * Each Phase will incorporate Diversity, Equity, and Inclusion as part of the voting process
-  * Recruit Professionals to teach best practices from the beginning rather than random googling and tutorial trainings - OOP, Reusing / Refactoring code, Unit Tests, writing Technical Documentation and Wikis, etc.
-
 ## Mission
-  * Use free or donated modern resources to solve a discrete problem with infinite local variations, providing free or donation-based products and services that can improve any neighborhood
+  * Use free or donated modern resources to solve a discrete problem with infinite local variations, providing free or donation-based products and services that can improve any neighborhood and inspire future related projects
+
+## Core Goals
+  * Create a variety of solutions that are easy to use with no or low cost
+  * Learn about accessible design in physical product, software and hardware development
+  * Incorporate DEI and the Environment as part of each phase and voting round
+  * Develop new curricula free to any educator that allows for collaboration between arts and sciences, opening minds thinking they have to choose one or the other
+  * Provide an opportunity for homeschool or other alternately educated students to participate with a local HS/CC agreement
+  * Strengthen existing and develop new HS/CC DE programs to help students get free college credit while in high school
+  * Recruit Professionals to teach best practices and network from the beginning rather than random googling and tutorial trainings - OOP, Functions, Refactoring code, Unit Tests, writing Technical Documentation and Wikis, etc.
+  * Choose your own adventure - no requirements on programming language, operating systems, platforms - any open source solution that is in a public repository (even if that's as simple as Google Docs or Imgur Album) is welcome, pending Hack-a-thon judging / hosting capacity
+  * Embrace modern technology - rather than fear ChatGPT, Bard, OpenAI, GitHub Copilot, or any other AI/ML/Massive Dataset Trained tool - we should teach responsible use of these tools, when and where they are completely appropriate tools, and the ***importance of fact-checking all content as readibility and seeming convincing have nothing to do with accuracy***
+  * ***Embrace modern technology*** - What??? Again?! *Yes.* That's right. Embrace modern technology. The calculator didn't kill math, nor did typewriters and personal computers kill writing, nor did the graphing calculator, modern smartphones, or any other advancement painted as a boogeyman rot children's brains per fearmongering. Teach skepticism and validating information with reliable sources over banning and trying to be punitive when these tools are used
+
+    > Example: Any AI prompted language, whether code or natural language content, may be used but must include the specific tool used and the prompt that generated the response.
 
 
 
-## Phases
+---
+## Alpha Phases - "Release Version Name"
 
-### Planning
+### 0. Pre-Release: "Scribbles" ```alpha v0.0``` - ```current```
+  ```
+  I have been contemplating this mentally for over a year. Feels good to be typing. I am aware I am being way overambitious for the first time doing something remotely this complicated. How else do we do in 2023?
+  -PS
+  ```
+> :)
+
+> This version will essentially last until I pursue more than documenting thoughts.
+
+### 1. Open Planning: "Checklist"
   1. Recruit *Local* Subject Matter Experts (SMEs)
 
-  1. Determine Best *Local* Approach - 501(c)3, B Corp, Community College course or utilizing an existing Dual Enrollment agreement?
+  1. Determine Best *Local* Approach - 501(c)(3), B Corp, CC course or utilizing an existing HS/CC DE agreement...
 
-  1. Proceed to next steps depending on approach. If developing a 501(c)3, grab a domain to match the project and begin finding a board. If developing a CC course, email the registrar or contact for Dual Enrollment.
+  1. Proceed to next steps depending on approach. If developing a 501(c)(3), grab a domain to match the project and begin finding a board. If developing a CC course, email the registrar or contact for new academic programming
 
-  1. Proceed to next phase ```alpha v0.1``` when primary Project Management tool is selected.
+  1. Identify team members with varied skills wishing to work on this project
 
-### Future Issues
-  TODO: #7 Create single landing page announcement (access by QR code and/or shortened URL) with major details and newsletter signup, along with participant type
+### 2. First Funding: "Payseeker"
+  1. Even the most optimistic analysis of this idea shows that the scope is far beyond the reach of one or even several people volunteering part time for a passion project.
+
+  1. To pursue this for real, it would be necessary to have several employees. No matter the funding sources the following would be hiring priorities:
+      
+     > A livable wage based on local wages across industries - not just non-profit salary comparisons, with COLA pegged to inflation
+
+     > Insurance coverage and benefits based on local Union contracts with content employees
+
+     > 1 FTE defined as 32 Hours, with a maximum of 40 Hours / week, and even management will require approval to exceed 40 hours
+
+     > Unlimited PTO with advance notice and coverage planning
+
+     > Flexible schedules and priority on supporting remote work and the whole employee rather than the "office version" of the employee
+
+     > DEI Priorities in hiring - full life experience considered rather than just standard Resume / CV content and experiences
+
+     > At least 1 year of salaries fully funded in each cycle, from start date with coverage for healthcare payments for 6 months following end of contract to allow employees to find new work
+
+     > 403(b) Contribution matching options
+
+     > Any other best practice identified for the highest rated non-profits
+
+  1. If necessary, the first employee could start as a voluntary grantwriter who funds their own position with a grant. Following this, other positions can work part-time as volunteers and work with the grantwriter to continue to identify funding or wait for a single funding opportunity to support a pilot program that covers each necessary position
   
-  TODO: #8 Contact UnitedWay to get ideas for Lane County partners to approach
+  1. If an existing entity (Example: Ford Family Foundation) hears about this project and wishes to invest significantly in the idea but only if using their existing infrastructure, processes, and screening criteria, I'll happily give it up with assurances that it will go somewhere and the priority will remain for DEI and Accessibility to be baked in to the project
 
-  TODO: #9 Contact Lane Community College to discuss new program development processes
+### 3. Announcement: "Launch"
+  1. Once funding is secured, full steam ahead. Multi-pronged social media blast, coordination with City, County, and State Education and Parks & Recreation departments to spread the word and encourage participation
+  
+  1. Enroll in local interest groups: investors, professionals, chambers, and find local integrations and opportunities to maximize local impact
 
-  TODO: #10 Create new file or identify appropriate location to place these issues instead of this post.
+  1. Get creative - Craigslist, The Library, Maker Spaces, 4H, anything that already engages with high schoolers 
+
+## Beta Launch - "Implementary"
+
+### Educational Participation Types
+
+#### High School Students and Educators
+| Account Type | Description |
+| ------------ | ----------- |
+| Individual (Participant) | Basic level for all high school registrants - required to participate in any way |
+| Educator | Anyone* working in an educator role who wishes to guide a team |
+| Solo Project | Participant who has a clear idea for a solution and wish to pursue it with just an Educator/Mentor |
+| Team Project | Any group of two (2) to thirty (30) Participants working on a solution together |
+| Support Ratio | A minimum ratio of one (1) Educator for every fifteen (15) Participants (1:15) must be observed for groups. A minimum ratio of one (1) Educator for every one (1) Individual (1:1) for Solo Projects |
+| **Notes** | Schools with more than 30 students wishing to participate should break initial proposed solutions into separate but complementary Team projects with no team exceeding 30 particiants. This allows students to further dig into their specific areas of interest and get a deeper dive into their portion of the proposed solution |
 
 
+### Sign-up pathways:
+
+1. Student path: A high schooler signs up for an Individual Account. They use an online form to send a request to an Educator to participate as mentor for either a Team or Solo Account. The email will contain info about the 3P Project, the role of an Educator, and the Account Type the student is requesting - Team or Solo.
+
+1. Educator path: An Educator sees a post on Social Media and navigates to the Hack-a-thon site. They sign-up for an Educator Account, and either create a Team right away and invite their class, club, tutoring groups, homeschoolers, or otherwise mentored high school students to sign up and join the Team. Or, perhaps they bring it to a select group of parents who have requested better programming to help prepare their computer-savvy kids for the workforce, using their voices to help get momentum in the district to sign up.
+
+### Non-Educational Participation Types
+
+#### Sponsors and Professionals
+| Account Type | Description |
+| ------------ | ----------- |
+| Sponsor (Project) | Sign up and directly support the 3P Project overall |
+| Sponsor (Individual) | Basic level for any citizen or sole proprietor wishing to provide funding to overall project or specific student solutions & projects |
+| Sponsor (Group / Corporate) | Any company or entity wishing to provide monetary, monetary equivalent, or time / supplies to the effort |
+| Professional (Mentor) | Anyone in a professional field that wishes to contribute their knowledge to a local team |
+| Professional (Judge) | Anyone in a professional field that wishes to participate by evaluating compliance with current phase requirements or efficacy of proposed solutions |
+
+---
 
 ## Reasons to get Involved
 
@@ -108,7 +189,7 @@ Status: ```alpha v0.0```
   1. Financial Only - ***Monetary contributions*** to scholarships, purchasing, etc.
   1. Donation: licensing, physical supplies, gift cards to electronics stores
   1. Fundraising: Ice Cream Socials, Bake-off Auctions, Car Washes
-  1. Support Pledge: Commit to subscribe or donate to local services developed through this collaborative competion
+  1. Support Pledge: Commit to subscribe or donate to local services developed through this collaborative competition
   2.
   
 
@@ -133,6 +214,11 @@ In order to be eligible for advancement to the next round, *even with a project 
 Honestly, competitors may develop as they desire to be effective locally, but if your project becomes tagged as "petty" you may be placed into "debug" mode where additional guidance from the , and if tagged as "offensive" overall by voting participants it can place your project into a dungeon
 
 
+### No Liability Agreement
+If any participating institution, educational, for or non-profit, government or otherwise, creates credit programs, scholarships, internships, giveaways, discount programs, or any other incentives with real monetary value, the participating institution is 100% responsible for funding, creating rules, verifying and validating all Projects submitted to them separately from any Hack-a-thon activities. You enter into a completely new and separate agreement with the institution beyond the engagement in the Hack-a-thon. We will not police, monitor, administrate, or quality check participants. This is a framework with set rules and agreements to facilitate learning. 
+
+Any participant who loses out on any implied, spoken, written or otherwise understood compensation ("incentive"), having "real" monetary value or not, must resolve this with the partner providing the incentive, not . The Hackathon will not be held responsible for any promises, explicit or implied, made to any Solo or Team Projects, of any kind.
+
 
 ## Ideas for future development
 * Self-Reporting Option: Run out of bags? Dog freaking out and you had to leave to prevent a puppy fight? Ping your own location without identifying you or your dog with a note about the soonest you can return to take care of it or leave a donation requesting a participant to clean it and claim the donation.
@@ -148,8 +234,19 @@ Honestly, competitors may develop as they desire to be effective locally, but if
 So many I'll often forget to paste them here despite wanting to remember
 
 ### Example programs to look at
-1. Tution free course to HS Juniors and Seniors:
+1. Tuition free course to HS Juniors and Seniors:
 https://www.lanecc.edu/community/education-community/early-college-expanded-options/tuition-free-course
 2. Expectations of HS students taking CC courses:
 https://www.lanecc.edu/community/education-community/early-college-expanded-options/hs-student-resources
-3. 
+
+
+
+
+### Future Issues
+  TODO: #7 Create single landing page announcement (access by QR code and/or shortened URL) with major details and newsletter signup, along with participant type
+  
+  TODO: #8 Contact UnitedWay to get ideas for Lane County partners to approach
+
+  TODO: #9 Contact Lane Community College to discuss new program development processes
+
+  TODO: #10 Create new file or identify appropriate location to place these issues instead of this post.
